@@ -46,3 +46,5 @@
 Debug
 *.exp
 *.ilk
+*.iobj
+*.ipdb
