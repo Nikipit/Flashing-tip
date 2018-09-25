@@ -31,16 +31,18 @@
 *.app
 
 # Other 
-.ipch
-.suo
-.db
-.tlog
-.obj
-.log
-.pch
-.pdb
-.res
-.idb
-.filters
-.user
-.Debug
+*.ipch
+*.suo
+*.db
+*.tlog
+*.obj
+*.log
+*.pch
+*.pdb
+*.res
+*.idb
+*.filters
+*.user
+Debug
+*.exp
+*.ilk
